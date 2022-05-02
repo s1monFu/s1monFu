@@ -3,4 +3,4 @@
 - 😄 I will be working for Research & Prospect Management at Wisconsin Foundation and Alumni Association during the 2022 Summer.
 - 👀 I’m interested in data analysis, machine learning, and artificial intelligence.
 - 🍀 I'm actively looking for 2023 Summer internships and research opportunities in the fields of computer science.
-- 📫 laissezfu@gmail.com & hfu52@wisc.edu
+- 📫 hfu52@wisc.edu | 608-335-0896

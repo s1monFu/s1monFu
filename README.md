@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @s1monFu, an undergraduate at University of Wisconsin-Madison major in Computer Science & Data Science.
-- 😊 I'm currently an academic mentor for Center of Academic Excellence and an academic coach for Division of Diversity, Equity & Educational Achievement in the UW-Madison.
-- 😄 I will be working for Research & Prospect Management at Wisconsin Foundation and Alumni Association during 2022 Summer.
+- 👋 Hi, I’m @s1monFu, an undergraduate at the University of Wisconsin-Madison majoring in Computer Science & Data Science.
+- 😊 I'm currently an academic mentor for the Center of Academic Excellence and an academic coach for the Division of Diversity, Equity & Educational Achievement at the UW-Madison.
+- 😄 I will be working for Research & Prospect Management at Wisconsin Foundation and Alumni Association during the 2022 Summer.
 - 👀 I’m interested in data analysis, machine learning, and artificial intelligence.
-- 🍀 I'm actively looking for 2023 Summer internships and research opportunities in fields of computer science.
+- 🍀 I'm actively looking for 2023 Summer internships and research opportunities in the fields of computer science.
 - 📫 laissezfu@gmail.com & hfu52@wisc.edu

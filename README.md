@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s1monFu, an undergraduate at the University of Wisconsin-Madison majoring in Computer Science & Data Science.
-- 📜 I am currently an academic mentor for the Center of Academic Excellence and an academic coach for the Division of Diversity, Equity & Educational Achievement at the UW-Madison.
+- 📜 I am a peer mentor for CS 537 Intro to Operating Systems in Professor Remzi's section and CS 354 Intro to Computer Systems in Professor Deppler's section this Fall 2022.
 - 🔬 I am a lab member of Lu's Lab at UW-Madison https://qlu-lab.org/
 - 🧐 I am working for Research & Prospect Management at Wisconsin Foundation and Alumni Association as an intern during the 2022 Summer.
 - 👀 I’m interested in data analysis, machine learning, and system development.

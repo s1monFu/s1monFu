@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @s1monFu, an undergraduate at the University of Wisconsin-Madison majoring in Computer Science & Data Science.
-- 💼 My personal website: http://simonfu.s1mondev.com
 - 📜 I am a peer mentor for CS 537 Intro to Operating Systems in Professor Remzi's section and CS 354 Intro to Computer Systems in Professor Deppler's section this Fall 2022.
 - 🔬 I am a lab member of People and Robots Laboratory under the Human Computer Interaction Group at UW-Madison
 - 👀 I’m interested in data analysis, web development, and computer systems.

@@ -1,3 +1,3 @@
 - Master of Science in Computer Science @CMU
 - Bachelor of Science in Computer Science and Data Science @UW-Madison
-- [profile](https://s1monfu.github.io/)
+- [My profile and blog](https://s1monfu.github.io/)

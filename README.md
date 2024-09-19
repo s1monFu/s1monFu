@@ -1,3 +1,3 @@
-- M.S. in COMP SCI @CMU
-- B.S. in COMP SCI and DATA SCI @UW-Madison
+- Master of Science in Computer Science @CMU
+- Bachelor of Science in Computer Science and Data Science @UW-Madison
 - [profile](https://s1monfu.github.io/)

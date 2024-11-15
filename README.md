@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **machine learning in production, generative AI, deep learning**
 
-- 📝 I regularly write articles on [https://s1monfu.github.io/posts/](https://s1monfu.github.io/posts/)
+- 📝 I regularly write articles on [my blog](https://s1monfu.github.io/posts/)
 
 - 📫 How to reach me **hongyuf@andrew.cmu.edu**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/udu5wpoh3d0wp3z33a10r/Simon-Hongyu-Fu-Resume_sde.pdf?rlkey=0mgi2lotlv7ziyw4bvct1zeji&st=uarzzvdt&dl=0](https://www.dropbox.com/scl/fi/udu5wpoh3d0wp3z33a10r/Simon-Hongyu-Fu-Resume_sde.pdf?rlkey=0mgi2lotlv7ziyw4bvct1zeji&st=uarzzvdt&dl=0)
+- 📄 Know about my experiences from my [resume](https://www.dropbox.com/scl/fi/udu5wpoh3d0wp3z33a10r/Simon-Hongyu-Fu-Resume_sde.pdf?rlkey=0mgi2lotlv7ziyw4bvct1zeji&st=uarzzvdt&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
